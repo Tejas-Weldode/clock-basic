@@ -1,4 +1,4 @@
-let timerAudio = new Audio("/sound/timer expired.mp3");
+let timerAudio = new Audio("sound/timer expired.mp3");
 
 // CLOCK
 
